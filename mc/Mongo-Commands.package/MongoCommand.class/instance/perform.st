@@ -1,0 +1,3 @@
+perform command
+perform
+	self subclassResponsibility

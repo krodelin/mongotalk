@@ -1,0 +1,14 @@
+{
+	"category" : "Mongo-Commands-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"index" ],
+	"name" : "MongoDropIndexesCommand",
+	"pools" : [
+		 ],
+	"super" : "MongoCollectionCommand",
+	"type" : "normal" }

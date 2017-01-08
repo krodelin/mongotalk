@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "UdoSchneider 1/8/2017 15:24",
+		"testConvenienceMethod" : "UdoSchneider 1/8/2017 15:22",
+		"testFilterAutoIndexId" : "UdoSchneider 1/8/2017 15:47",
+		"testFilterCapped" : "UdoSchneider 1/8/2017 15:46",
+		"testFilterFlags" : "UdoSchneider 1/8/2017 16:03",
+		"testFilterMax" : "UdoSchneider 1/8/2017 15:56",
+		"testFilterName" : "UdoSchneider 1/8/2017 15:25",
+		"testFilterSize" : "UdoSchneider 1/8/2017 15:48",
+		"testFilterStorageEngine" : "UdoSchneider 1/8/2017 16:08" } }

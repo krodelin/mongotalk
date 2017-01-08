@@ -1,0 +1,3 @@
+defaults
+defaultIndexType
+	^ 1

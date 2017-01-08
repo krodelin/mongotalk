@@ -1,0 +1,3 @@
+accessing
+where
+	self subclassResponsibility

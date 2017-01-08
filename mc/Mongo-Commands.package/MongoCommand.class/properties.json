@@ -1,0 +1,14 @@
+{
+	"category" : "Mongo-Commands-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MongoCommand",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

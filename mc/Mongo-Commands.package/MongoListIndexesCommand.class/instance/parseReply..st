@@ -1,0 +1,12 @@
+parsing
+parseReply: aCollection
+	| indexes |
+	indexes := (aCollection at: 'cursor') at: 'firstBatch'.
+	^ indexes
+		collect: [ :index | 
+			| options |
+			options := index copy
+				removeKey: 'name';
+				removeKey: 'key';
+				yourself.
+			MongoIndex name: (index at: 'name') key: (index at: 'key') options: options ]

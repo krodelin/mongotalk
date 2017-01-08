@@ -1,0 +1,16 @@
+{
+	"category" : "Mongo-Commands-Index",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"key",
+		"options" ],
+	"name" : "MongoIndex",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

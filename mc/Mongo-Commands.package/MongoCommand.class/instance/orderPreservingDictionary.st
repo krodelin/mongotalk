@@ -1,0 +1,3 @@
+default
+orderPreservingDictionary
+	^ SmallDictionary new
