@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "UdoSchneider 1/8/2017 15:24",
+		"setUp" : "UdoSchneider 2/6/2017 17:18",
 		"testConvenienceMethod" : "UdoSchneider 1/8/2017 15:22",
 		"testFilterAutoIndexId" : "UdoSchneider 1/8/2017 15:47",
 		"testFilterCapped" : "UdoSchneider 1/8/2017 15:46",

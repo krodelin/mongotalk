@@ -1,3 +1,3 @@
 accessing
-database: anObject
-	database := anObject
+database: aMongoDatabase
+	database := aMongoDatabase

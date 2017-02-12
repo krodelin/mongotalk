@@ -1,7 +1,7 @@
 parsing
 parseReply: aCollection
 	| indexes |
-	indexes := (aCollection at: 'cursor') at: 'firstBatch'.
+	indexes := self parseCursorReply: aCollection.
 	^ indexes
 		collect: [ :index | 
 			| options |

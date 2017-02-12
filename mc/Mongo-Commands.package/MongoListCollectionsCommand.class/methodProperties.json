@@ -2,6 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
+		"commandArguments" : "UdoSchneider 2/6/2017 17:36",
+		"commandName" : "UdoSchneider 2/6/2017 17:36",
 		"filter" : "UdoSchneider 1/4/2017 19:42",
 		"filter:" : "UdoSchneider 1/4/2017 19:42",
 		"filterAutoIndexId" : "UdoSchneider 1/8/2017 15:40",
@@ -19,5 +21,4 @@
 		"filterStorageEngine" : "UdoSchneider 1/8/2017 16:08",
 		"filterStorageEngine:" : "UdoSchneider 1/8/2017 16:08",
 		"initialize" : "UdoSchneider 1/8/2017 15:18",
-		"parseReply:" : "UdoSchneider 1/8/2017 14:57",
-		"where" : "UdoSchneider 1/5/2017 12:11" } }
+		"parseReply:" : "UdoSchneider 1/8/2017 14:57" } }

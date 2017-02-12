@@ -1,3 +1,0 @@
-parsing
-parseReply: aCollection
-	^ aCollection

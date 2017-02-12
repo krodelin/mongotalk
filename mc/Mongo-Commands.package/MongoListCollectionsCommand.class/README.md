@@ -5,11 +5,10 @@ If you just want to get all connections you can use the convenience method  `Mon
 If you need to add additonal filters you create an instance, configure it and then perform it:
 
 ```
-command := MongoListCollectionsCommand new 
-	database: db;
+command := db listCollectionsCommand
 	filterName: 'a collection name';
 	yourself.
-cursor := command perform.
+result := command perform.
 ```
 
 The following filters are available:

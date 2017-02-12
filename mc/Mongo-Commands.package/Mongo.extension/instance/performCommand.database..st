@@ -1,7 +1,7 @@
 *Mongo-Commands
 performCommand: aMongoCommand database: aDatabase
 	| query reply |
-	query := aMongoCommand asQuery
+	query := aMongoCommand asMongoQuery
 		database: aDatabase;
 		yourself.
 	reply := self queryOne: query.

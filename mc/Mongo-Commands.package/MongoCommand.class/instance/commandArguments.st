@@ -1,3 +1,3 @@
 accessing
-where
+commandArguments
 	self subclassResponsibility
