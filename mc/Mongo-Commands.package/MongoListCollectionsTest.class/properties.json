@@ -1,0 +1,14 @@
+{
+	"category" : "Mongo-Commands-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"command" ],
+	"name" : "MongoListCollectionsTest",
+	"pools" : [
+		 ],
+	"super" : "MongoTest",
+	"type" : "normal" }

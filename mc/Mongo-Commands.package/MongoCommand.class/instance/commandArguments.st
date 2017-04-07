@@ -1,0 +1,3 @@
+accessing
+commandArguments
+	self subclassResponsibility
